@@ -2,6 +2,8 @@
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+Recriado por [MADS1974](https://www.linkedin.com/in/mads1974/) com base no projeto original do Tech Educator, [DIO](https://web.dio.me/project/desafio-de-projeto-playstation-store/learning/7ae6b96d-24ea-4c63-b279-df2cf6115fff?back=/track/santander-bootcamp-2023-fullstack-java-angular&tab=undefined&moduleId=undefined) [Felipe Aguiar](https://www.linkedin.com/in/felipe-exe/).
+
 ## Development server
 
 Run/Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
