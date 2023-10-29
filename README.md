@@ -27,3 +27,5 @@ Run/Execute `ng e2e` para executar os testes de ponta a ponta através de uma pl
 ## Further help
 
 Para obter mais ajuda sobre o Angular CLI use `ng help` ou confira a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
+
+![Playstation Store](https://im3.ezgif.com/tmp/ezgif-3-e0389a11c9.gif)
